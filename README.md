@@ -24,7 +24,7 @@
      - router.put('/update/client/:clientId', userController.updateClientDetail);
      - router.get('/agency/detail', userController.getAgencyDetail);
 
-## Controllers
+## npm script
 
     npm run dev
     npm start
